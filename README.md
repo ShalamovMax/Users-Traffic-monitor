@@ -1,9 +1,9 @@
 # Build a realtime traffic monitor using Python and Pusher
 
 This is a raw project how to build a realtime website traffic monitor using [Python](https://www.python.org/) and [Pusher](https://pusher.com/).
-Example:
-When user link on site: [Main Page](http://cm45285.tmweb.ru/index.html)
-Show traffic on DataBase: [Dashboard](http://cm45285.tmweb.ru/dashboard.html)
+* Example:
+* When user link on site: [Main Page](http://cm45285.tmweb.ru/index.html)
+* Show traffic on DataBase: [Dashboard](http://cm45285.tmweb.ru/dashboard.html)
 
 ## Prerequisites
 
